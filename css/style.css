@@ -62,13 +62,13 @@ body {
 }
 
 .projects-link {
-  color: #220fdc;
+  color: #175219;
   font-size: 14px;
   line-height: 24px;
 }
 
 .projects-link:hover {
-  color: #7633a6;
+  color: #AB1F1C;
 }
 
 .jobs-title,
@@ -99,14 +99,14 @@ body {
 }
 
 .accent {
-  color: #AB1F1C;
+  color: #a43614;
 }
 
 /* ========= left-side ========= */
 
 .left-side {
   width: 370px;
-  background-color: #758f35;
+  background-color: #175219;
   color: #fff;
 }
 
@@ -128,7 +128,8 @@ body {
 .skills-item::before {
   content: "\2022";
   margin-right: 8px;
-  color: #8c12c9;
+  color: #a43614;
+  ;
   font-size: 18px;
 }
 
@@ -183,7 +184,8 @@ body {
 
 .widget-link {
   color: #fff;
-  background-color: #7633a6;
+  background-color: #a43614;
+  ;
   padding-top: 20px;
   padding-right: 43px;
   padding-bottom: 20px;
@@ -192,11 +194,11 @@ body {
   text-transform: uppercase;
   font-size: 12px;
   font-weight: bold;
-  box-shadow: 0px 0px 13px 1px rgba(255,107,8,0.4);
+  box-shadow: 0px 0px 13px 1px rgba(167, 11, 16, 0.236);
 }
 
 .widget-link:hover {
-  box-shadow: 0px 6px 32px 1px rgba(255,107,8,0.92);
+  box-shadow: 0px 6px 32px 1px rgba(175, 18, 18, 0.92);
 }
 
 .widget:hover {
