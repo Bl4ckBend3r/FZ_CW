@@ -68,7 +68,7 @@ body {
 }
 
 .projects-link:hover {
-  color: #AB1F1C;
+  color: #7633a6;
 }
 
 .jobs-title,
@@ -106,7 +106,7 @@ body {
 
 .left-side {
   width: 370px;
-  background-color: #292B24;
+  background-color: #758f35;
   color: #fff;
 }
 
@@ -128,7 +128,7 @@ body {
 .skills-item::before {
   content: "\2022";
   margin-right: 8px;
-  color: #C71712;
+  color: #8c12c9;
   font-size: 18px;
 }
 
@@ -183,7 +183,7 @@ body {
 
 .widget-link {
   color: #fff;
-  background-color: #AB1F1C;
+  background-color: #7633a6;
   padding-top: 20px;
   padding-right: 43px;
   padding-bottom: 20px;
